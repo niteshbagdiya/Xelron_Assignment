@@ -1,8 +1,5 @@
 # Xelron SDE Intern Assessment - Marlin
 
-[![Assessment Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)](.)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](.)
-[![Documentation](https://img.shields.io/badge/Documentation-Complete-green?style=for-the-badge)](.)
 
 A comprehensive technical assessment for the SDE Intern position demonstrating expertise in open-source repository analysis, Pull Request comprehension, and technical solution design. This submission showcases in-depth understanding of Python architecture patterns, distributed systems, and real-world implementation challenges.
 
@@ -16,8 +13,7 @@ A comprehensive technical assessment for the SDE Intern position demonstrating e
 - [🏁 Quick Start](#-quick-start)
 - [📋 Quick Navigation](#-quick-navigation)
 - [📜 Integrity Declaration](#-integrity-declaration)
-- [👤 Author](#-author)
-- [📄 License](#-license)
+
 
 ---
 
@@ -117,28 +113,11 @@ For optimal comprehension, read the documents in the following sequence:
 
 I hereby declare that all written content in this assessment is my own original work, created without the assistance of AI language models or automated writing tools. All technical analysis and documentation reflects my personal understanding and has been written entirely in my own words.
 
-**Date**: [Insert Date]  
-**Name**: [Your Full Name]  
-**Contact**: [Your Email/Phone]
+**Date**: [12/02/2026]  
+**Name**: [Nitesh bagdiya]  
+**Contact**: [niteshbagdiya989@gmail.com]
 
 ---
 
-## 👤 Author
 
-**Marlin**  
-SDE Intern Candidate  
-Xelron Technical Assessment Submission
 
-- 📧 Email: niteshbagdiya989@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/nitesh-bagdiya-b77388257/
-- 💼 GitHub: https://github.com/niteshbagdiya
-
----
-
-## 📄 License
-
-This assessment submission is proprietary and confidential. All rights reserved. Unauthorized distribution or reproduction is prohibited.
-
----
-
-*Built with ❤️ for the Xelron SDE Intern Assessment*
